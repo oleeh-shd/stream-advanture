@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "concat-stream": "^2.0.0",
+    "http": "^0.0.1-security",
     "split2": "^4.1.0",
     "through2": "^4.0.2"
   }
